@@ -16,4 +16,5 @@
 
 ## License
 
+This Project is hosted under the [MIT](LICENSE) License
 
