@@ -10,7 +10,6 @@
    - Download the .exe (<a href="https://github.com/tnsjesper/BarCodeGen/releases/tag/release-1.0.1">here</a>)
    - Click on "More Infos" ("Mehr Informationen")
    - Then "Execute anyway"
-   - Now Download all [Requirments](https://install.tnsjesper.xyz/qrcode/Publish.html)
    - Then your are **DONE**!
 
 
